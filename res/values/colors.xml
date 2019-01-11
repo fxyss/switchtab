@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_sex">#4a90e2</color>
+    <color name="bg_class">#50e3c2</color>
+    <color name="bg_workUtil">#ffb0d6</color>
+    <color name="bg_profession">#bd10e0</color>
+    <color name="bg_search">#4FC1E9</color>
+    <color name="btn_publish">#7ED321</color>
+    <color name="btn_orange">#ffff5f23</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+    <color name="grey">#808080</color>
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="bg_red">#D13600</color>
+    <color name="bg_blue">#D13600</color>
+    <color name="lighter_gray">#ffd3d3d3</color>
+    <color name="gray">#ff808080</color>
+    <color name="bg_order">#A0A0B0</color>
+    <color name="darkgray">#ffa9a9a9</color>
+    <color name="darkblue">#43BBEA</color>
+    <color name="tv_center">#2b2b2b</color>
+    <color name="trans_darkgray">#55a9a9a9</color>
+    <color name="lightgray">#ffd3d3d3</color>
+    <color name="black">#ff000000</color>
+    <color name="black_trans">#2A2A2A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey_light">#B4B4B4</color>
+    <color name="voucher">#EE941F</color>
+    <color name="bg_label">#E27D24</color>
+    <color name="bg_green">#21D05F</color>
+    <color name="bg_yellow">#EE941F</color>
+    <color name="bg_feedback">#EA4C4C</color>
+    <color name="bg_yue">#FF7722</color>
+    <color name="shop_et">#888888</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_limit">#FF1919</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_add">#EEF1F6</color>
+    <!--
+         <color name="registe_background">#FBFBFB</color>
+    <color name="view">#EAEBED</color>
+    <color name="bg_mine">#FAFAFA</color>
+    -->
+    <color name="registe_background">#D9D9D9</color>
+    <color name="view">#C8C7CC</color>
+    <color name="bg_mine">#EFEFF4</color>
+    <color name="consumer_back">#ECEDF1</color>
+    <!-- <color name="tab">#FF9D06</color> -->
+   <color name="tab">#90d7ec</color>
+    <color name="tab_top">#FF9D06</color>
+    <color name="money">#B6B6B6</color>
+    <color name="consumer_orange">#FF5D37</color>
+    <color name="consumer_green">#70D635</color>
+    <color name="title_text_color">#ffffffff</color>
+    <color name="bg_row_pressed_start">#ffcccccc</color>
+    <color name="bg_row_pressed_center">#ffcccccc</color>
+    <color name="bg_row_pressed_end">#ffcccccc</color>
+    <color name="bg_row_normal">#ffffffff</color>
+
+    <item name="bg_row_normal_start" type="color">@color/bg_row_normal</item>
+    <item name="bg_row_normal_center" type="color">@color/bg_row_normal</item>
+    <item name="bg_row_normal_end" type="color">@color/bg_row_normal</item>
+
+    <color name="bg_row_border">#ffcacaca</color>
+    <color name="account_account_bind">#ff828282</color>
+    <color name="default_text">#ff454545</color>
+    <color name="green">#ff00ff00</color>
+    <color name="item_abstract_normal">#ff444444</color>
+    <color name="item_abstract_disabled">#ff929292</color>
+    <color name="item_local">#ffffffff</color>
+    <color name="item_title_normal">#ff444444</color>
+    <color name="item_title_disabled">#ff888888</color>
+    <color name="setting_alt_text_normal">#ff666666</color>
+    <color name="setting_alt_text_selected">#ffff0000</color>
+    <color name="setting_item_text">#ff333333</color>
+    <color name="image_loading_bg">#ffefefef</color>
+    <color name="setting_copyright">#ff999999</color>
+    <color name="left_drawer_item_text_normal">#ffd4d4d4</color>
+    <color name="left_drawer_item_text_pressed">#ff4e4e4e</color>
+    <color name="left_drawer_item_bg_normal">#ff393939</color>
+    <color name="left_drawer_item_bg_pressed">#ff292929</color>
+    <color name="left_drawer_item_line">#ff272727</color>
+    <color name="drawer_text">#ffc3c3c3</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="fragment_click">#45c01a</color>
+    <color name="skin_background_color_0">#ffff00</color>
+    <color name="skin_background_color_1">#00ffff</color>
+    <color name="skin_background_color_2">#ff00ff</color>
+    <color name="skin_background_color">#ffffff</color>
+    <color name="graydark">#ADADAD</color>
+
+    <item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night</item>
+
+    <color name="default_text_night">#ff747474</color>
+    <color name="subscribe_item_text_color_pressed_night">#ff303030</color>
+    <color name="subscribe_item_selected_stroke_night">#ff00C5CD</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ff4fc1e9</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+    <color name="category_subscribe_text">#ffffffff</color>
+    <color name="drawer_item_bg">#ff5d5d5d</color>
+    <color name="drawer_line_color">#ff444444</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+    <color name="bg_voucher_right">#FF2E2E</color>
+    <color name="subscribe_activity_bg">#ffefefef</color>
+    <color name="subscribe_bg">#fff5f5f5</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+    <color name="bg_light_green">#a3ff00</color>
+    <color name="bg_dark_blue">#007AFF</color>
+    <color name="service_text">#a6a6a6</color>
+    <color name="service_image">#d8d8d8</color>
+    <color name="select_classmate_gray">#979797</color>
+    <color name="select_classmate_green">#149f00</color>
+    <color name="left_text">#4e4e4e</color>
+    <color name="left_line">#d9d9d9</color>
+    <color name="main_name">#181818</color>
+    <color name="main_sign">#bdbdbd</color>
+    <color name="registe_btn">#4FC1E9</color>
+    <color name="registe_text">#7B7B7B</color>
+    <color name="registe_text_2">#4FC1E9</color>
+    <color name="text_color">#FF001F</color>
+    <color name="text_hint_color">#A3A6AA</color>
+
+</resources>
